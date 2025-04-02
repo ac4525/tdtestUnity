@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "tdtestUnity.sln"
+    "dotnet.defaultSolution": "Projectv1.sln"
 }
