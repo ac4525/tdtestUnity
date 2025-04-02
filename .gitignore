@@ -1,10 +1,8 @@
-# Ignore Unity auto-generated files
+# Unity-specific ignores
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
+[Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Uu]serSettings/
-.vs/
-.idea/
-.vscode/
+UserSettings/
